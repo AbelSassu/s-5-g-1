@@ -246,9 +246,6 @@ footer a {
         margin-top: 0px;
         padding: 4px;
     }
-    fieldset{
-
-    }
     #user_email{
         font-size: 0.7em;
         height: 3.5em;
@@ -312,6 +309,66 @@ footer a {
     main{
         padding: 20px;
         line-height: 2em;
+    }
+    main h2{
+        font-size: 1.2em;
+        font-weight: 600;
+        margin-bottom: 0px;
+    }
+    main h1{
+        font-size: 3em;
+    }
+    #gianni{
+        margin-top: 0px;
+    }
+    caption{
+        margin-top: 4em;
+        font-size: 0.8em;
+    }
+    table{
+        width: 70%;
+        height: 0%;
+        align-items: center;
+        margin: auto;
+        padding-bottom: 5em;
+    }
+    th, td {
+        font-size: 0.8em;
+        padding: 10px;
+    }
+    #novità{
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    #novità h2{
+        margin-top: 0px;
+        padding: 4px;
+    }
+    iframe{
+        max-width: 49%;
+        height: 200px;
+        display: inline-block;
+    }
+    section{
+        border-radius: 15px;
+        height: 180px;
+        margin-bottom: 20px;
+        max-width: 49%;
+        display: inline-block;
+    }
+    aside div{
+        width: 33%;
+        display: inline-block;
+    }
+    #user_email{
+        font-size: 0.7em;
+        height: 3.5em;
+        width: 70%;
+    }
+    button{
+        font-size: 0.7em;
+        height: 3.5em;
+        width: 20%;
     }
 } 
 @media print {
